@@ -7,7 +7,7 @@ Provides [Dart Build System] builders for handling JSON.
 - Package: <https://pub.dev/packages/json_serializable>
 - [Source code](json_serializable)
 
-The core package providing Generators for JSON-specific tasks.
+The core package providing Generators for JSON-specific tasks. and cacks
 
 Import it into your pubspec `dev_dependencies:` section.
 
