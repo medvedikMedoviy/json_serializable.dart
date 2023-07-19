@@ -19,6 +19,7 @@ Import it into your pubspec `dev_dependencies:` section.
 The annotation package which has no dependencies.
 
 Import it into your pubspec `dependencies:` section.
+new features
 
 ## checked_yaml [![Pub Package](https://img.shields.io/pub/v/checked_yaml.svg)](https://pub.dev/packages/checked_yaml)
 
