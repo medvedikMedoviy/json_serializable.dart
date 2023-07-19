@@ -1,3 +1,4 @@
+read me
 [![Dart CI](https://github.com/google/json_serializable.dart/workflows/Dart%20CI/badge.svg)](https://github.com/google/json_serializable.dart/actions?query=workflow%3A%22Dart+CI%22)
 
 Provides [Dart Build System] builders for handling JSON.
